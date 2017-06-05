@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"首页社区ok.html",
-  "generationDate":new Date(1496630797800.88),
+  "generationDate":new Date(1496651953708.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2109,8 +2109,8 @@
           "style":{
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
-              "x":15,
-              "y":678},
+              "x":413,
+              "y":390},
             "size":{
               "width":239,
               "height":64}},
@@ -2126,8 +2126,8 @@
               "style":{
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
-                  "x":15,
-                  "y":678},
+                  "x":413,
+                  "y":390},
                 "size":{
                   "width":239,
                   "height":64}},
@@ -2152,8 +2152,8 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":15,
-              "y":752},
+              "x":413,
+              "y":464},
             "size":{
               "width":27,
               "height":18},
@@ -2181,8 +2181,8 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":15,
-                  "y":752},
+                  "x":413,
+                  "y":464},
                 "size":{
                   "width":27,
                   "height":18},
@@ -2211,8 +2211,8 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":55,
-              "y":752},
+              "x":453,
+              "y":464},
             "size":{
               "width":49,
               "height":18},
@@ -2240,8 +2240,8 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":55,
-                  "y":752},
+                  "x":453,
+                  "y":464},
                 "size":{
                   "width":49,
                   "height":18},
@@ -2332,8 +2332,8 @@
           "style":{
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
-              "x":12,
-              "y":790},
+              "x":410,
+              "y":502},
             "size":{
               "width":239,
               "height":16}},
@@ -2349,8 +2349,8 @@
               "style":{
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
-                  "x":12,
-                  "y":790},
+                  "x":410,
+                  "y":502},
                 "size":{
                   "width":239,
                   "height":16}},

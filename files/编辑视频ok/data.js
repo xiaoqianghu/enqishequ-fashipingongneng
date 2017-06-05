@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"编辑视频ok.html",
-  "generationDate":new Date(1496630802565.52),
+  "generationDate":new Date(1496651958249.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1005,7 +1005,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u27.png"}},
+                    "normal~":"images/精选视频详情ok/u31.png"}},
 {
                   "id":"98770f79b24e406c927555f846f98512",
                   "label":"",
@@ -4691,7 +4691,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u151.png"}},
+                    "normal~":"images/精选视频详情ok/u171.png"}},
 {
                   "id":"d557075748d44198b6bfaf8019a5b09b",
                   "label":"",
@@ -4842,7 +4842,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u185.png"}},
+                    "normal~":"images/精选视频详情ok/u205.png"}},
 {
                   "id":"b1a27773f5974679bed5adad6e4cb985",
                   "label":"",
@@ -4887,7 +4887,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u183.png"}},
+                    "normal~":"images/精选视频详情ok/u203.png"}},
 {
                   "id":"d23e654103cc46aba9d2c2773bc890b8",
                   "label":"",

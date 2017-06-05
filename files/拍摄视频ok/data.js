@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"拍摄视频ok.html",
-  "generationDate":new Date(1496630805750.61),
+  "generationDate":new Date(1496651961303.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -982,7 +982,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u273_start.png",
+            "start~":"images/精选视频详情ok/u247_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/拍摄视频ok/u48_line.png"}},
 {
@@ -1031,7 +1031,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u274.png"}},
+            "normal~":"images/精选视频详情ok/u248.png"}},
 {
           "id":"ae9f5a984a3446fb80fbe7ee83ade1a9",
           "label":"",
@@ -1539,7 +1539,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u273_start.png",
+            "start~":"images/精选视频详情ok/u247_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/拍摄视频ok/u74_line.png"}},
 {
@@ -1588,7 +1588,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u274.png"}},
+            "normal~":"images/精选视频详情ok/u248.png"}},
 {
           "id":"21aaaf566df14597986b791eb110063d",
           "label":"",

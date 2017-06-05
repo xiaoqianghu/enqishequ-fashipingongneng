@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择本地视频ok.html",
-  "generationDate":new Date(1496630806188.9),
+  "generationDate":new Date(1496651961705.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -931,7 +931,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"c8cf0e3971574363ab8fad02a6c9c739",
           "label":"",
@@ -1132,7 +1132,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"86307942758f48c990b8b34b2727a86b",
           "label":"",
@@ -2634,7 +2634,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"141370928a494187a1ecadc2cba306e6",
           "label":"",
@@ -2656,7 +2656,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/精选视频详情ok/u150_line.png"}},
+            "line~":"images/精选视频详情ok/u170_line.png"}},
 {
           "id":"67996513320f49a1a896458eb5411c94",
           "label":"",
@@ -2697,7 +2697,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u151.png"}},
+            "normal~":"images/精选视频详情ok/u171.png"}},
 {
           "id":"a403bfccaec040adba3a36e3aba53f3e",
           "label":"",
@@ -2842,7 +2842,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u157.png"}},
+            "normal~":"images/精选视频详情ok/u113.png"}},
 {
           "id":"e9fdb4f807ff464eb6811da882b1cef7",
           "label":"",
@@ -3036,7 +3036,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"efc29b1a5d204fc08ed0c874744b141a",
           "label":"",
@@ -3058,7 +3058,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/精选视频详情ok/u150_line.png"}},
+            "line~":"images/精选视频详情ok/u170_line.png"}},
 {
           "id":"1bc0f901574d4666bb39623d84b670a6",
           "label":"",
@@ -3099,7 +3099,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u151.png"}},
+            "normal~":"images/精选视频详情ok/u171.png"}},
 {
           "id":"5864760c7a14499cae41e14f5de080c8",
           "label":"",
@@ -3244,7 +3244,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u185.png"}},
+            "normal~":"images/精选视频详情ok/u205.png"}},
 {
           "id":"7bd426b4479a415ebdde55ce045968f2",
           "label":"",
@@ -3287,7 +3287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u183.png"}},
+            "normal~":"images/精选视频详情ok/u203.png"}},
 {
           "id":"6625736784924f698107096c2c00fb5e",
           "label":"",

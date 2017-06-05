@@ -13,6 +13,10 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"变更记录",
+        "type":"Wireframe",
+        "url":"变更记录.html"},
+{
         "pageName":"前端",
         "type":"Folder",
         "url":"",

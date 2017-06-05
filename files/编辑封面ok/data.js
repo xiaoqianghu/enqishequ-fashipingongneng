@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"编辑封面ok.html",
-  "generationDate":new Date(1496630806823.48),
+  "generationDate":new Date(1496651962257.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -153,7 +153,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"6a38be2979db464091affbfdd27651bb",
           "label":"",
@@ -988,7 +988,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"21a434204b804275a239dd8241c8bf5c",
           "label":"",
@@ -1072,7 +1072,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"48f2ae59bafa441a9fc78e3c3eb88042",
           "label":"",
@@ -1150,7 +1150,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"fd4ffc84d7124526be5791cc2af92617",
           "label":"",

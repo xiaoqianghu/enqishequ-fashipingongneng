@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"精选列表ok.html",
-  "generationDate":new Date(1496630801044.39),
+  "generationDate":new Date(1496651956840.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -7276,7 +7276,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u273_start.png",
+            "start~":"images/精选视频详情ok/u247_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/精选列表ok/u355_line.png"}},
 {
@@ -7325,7 +7325,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u274.png"}},
+            "normal~":"images/精选视频详情ok/u248.png"}},
 {
           "id":"0e81bf17a60e4d998242d6257cc412e1",
           "label":"",

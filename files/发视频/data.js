@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发视频.html",
-  "generationDate":new Date(1496630798302.21),
+  "generationDate":new Date(1496651954200.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -36,9 +36,7 @@
           "styleType":"referenceDiagramObject",
           "visible":true,
           "style":{
-            "location":{
-              "x":0,
-              "y":7}},
+},
           "adaptiveStyles":{
 },
           "masterId":"7eae0193a65e431ca4eb8ac17758a1d2"},
@@ -51,7 +49,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":56},
+              "y":49},
             "size":{
               "width":373,
               "height":10},
@@ -74,7 +72,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":333,
-              "y":36},
+              "y":29},
             "size":{
               "width":27,
               "height":16}},
@@ -91,7 +89,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":333,
-                  "y":36},
+                  "y":29},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -114,7 +112,7 @@
               "opacity":1},
             "location":{
               "x":17,
-              "y":74},
+              "y":67},
             "size":{
               "width":33,
               "height":19}},
@@ -136,7 +134,7 @@
                   "opacity":1},
                 "location":{
                   "x":17,
-                  "y":74},
+                  "y":67},
                 "size":{
                   "width":33,
                   "height":19}},
@@ -153,7 +151,7 @@
           "style":{
             "location":{
               "x":17,
-              "y":96},
+              "y":89},
             "size":{
               "width":357,
               "height":10},
@@ -177,7 +175,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":6,
-              "y":36},
+              "y":29},
             "size":{
               "width":22,
               "height":22},
@@ -198,7 +196,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":6,
-                  "y":36},
+                  "y":29},
                 "size":{
                   "width":22,
                   "height":22},
@@ -223,7 +221,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"dbe7c27ee25b40fb910973d4e78aea9d",
           "label":"",
@@ -234,7 +232,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":10,
-              "y":617},
+              "y":610},
             "size":{
               "width":364,
               "height":57},
@@ -254,7 +252,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":10,
-                  "y":617},
+                  "y":610},
                 "size":{
                   "width":364,
                   "height":57},
@@ -274,7 +272,7 @@
           "style":{
             "location":{
               "x":1,
-              "y":634},
+              "y":627},
             "size":{
               "width":373,
               "height":10},
@@ -297,7 +295,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":75,
-              "y":648},
+              "y":641},
             "size":{
               "width":23,
               "height":23},
@@ -318,7 +316,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":75,
-                  "y":648},
+                  "y":641},
                 "size":{
                   "width":23,
                   "height":23},
@@ -339,7 +337,7 @@
           "style":{
             "location":{
               "x":182,
-              "y":648},
+              "y":641},
             "size":{
               "width":10,
               "height":23},
@@ -362,7 +360,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":268,
-              "y":649},
+              "y":642},
             "size":{
               "width":22,
               "height":22},
@@ -383,7 +381,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":268,
-                  "y":649},
+                  "y":642},
                 "size":{
                   "width":22,
                   "height":22},
@@ -409,7 +407,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":116},
+              "y":109},
             "size":{
               "width":27,
               "height":16}},
@@ -430,7 +428,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":116},
+                  "y":109},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -448,7 +446,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":1,
-              "y":422},
+              "y":415},
             "size":{
               "width":374,
               "height":252},
@@ -469,7 +467,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":1,
-                  "y":422},
+                  "y":415},
                 "size":{
                   "width":374,
                   "height":252},
@@ -490,7 +488,7 @@
           "style":{
             "location":{
               "x":2,
-              "y":379},
+              "y":372},
             "size":{
               "width":373,
               "height":10},
@@ -513,7 +511,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":76,
-              "y":393},
+              "y":386},
             "size":{
               "width":23,
               "height":23},
@@ -534,7 +532,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":76,
-                  "y":393},
+                  "y":386},
                 "size":{
                   "width":23,
                   "height":23},
@@ -555,7 +553,7 @@
           "style":{
             "location":{
               "x":183,
-              "y":393},
+              "y":386},
             "size":{
               "width":10,
               "height":23},
@@ -578,7 +576,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":269,
-              "y":394},
+              "y":387},
             "size":{
               "width":22,
               "height":22},
@@ -599,7 +597,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":269,
-                  "y":394},
+                  "y":387},
                 "size":{
                   "width":22,
                   "height":22},
@@ -622,7 +620,7 @@
             "fontSize":"14px",
             "location":{
               "x":174,
-              "y":36},
+              "y":29},
             "size":{
               "width":29,
               "height":16}},
@@ -640,7 +638,7 @@
                 "fontSize":"14px",
                 "location":{
                   "x":174,
-                  "y":36},
+                  "y":29},
                 "size":{
                   "width":29,
                   "height":16}},
@@ -663,7 +661,7 @@
               "opacity":1},
             "location":{
               "x":327,
-              "y":74},
+              "y":67},
             "size":{
               "width":32,
               "height":19}},
@@ -685,7 +683,7 @@
                   "opacity":1},
                 "location":{
                   "x":327,
-                  "y":74},
+                  "y":67},
                 "size":{
                   "width":32,
                   "height":19}},
@@ -703,10 +701,10 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":0,
-              "y":740},
+              "y":733},
             "size":{
               "width":375,
-              "height":920},
+              "height":1040},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC}},
@@ -723,10 +721,10 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":0,
-                  "y":740},
+                  "y":733},
                 "size":{
                   "width":375,
-                  "height":920},
+                  "height":1040},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC}},
@@ -744,10 +742,10 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":0,
-              "y":740},
+              "y":733},
             "size":{
               "width":375,
-              "height":19},
+              "height":22},
             "borderFill":{
               "fillType":"solid",
               "color":0xFFCCCCCC}},
@@ -764,10 +762,10 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":0,
-                  "y":740},
+                  "y":733},
                 "size":{
                   "width":375,
-                  "height":19},
+                  "height":22},
                 "borderFill":{
                   "fillType":"solid",
                   "color":0xFFCCCCCC}},
@@ -784,7 +782,7 @@
           "style":{
             "location":{
               "x":2,
-              "y":789},
+              "y":782},
             "size":{
               "width":373,
               "height":10},
@@ -807,7 +805,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":334,
-              "y":769},
+              "y":762},
             "size":{
               "width":27,
               "height":16}},
@@ -824,7 +822,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":334,
-                  "y":769},
+                  "y":762},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -847,7 +845,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":807},
+              "y":800},
             "size":{
               "width":113,
               "height":19}},
@@ -869,7 +867,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":807},
+                  "y":800},
                 "size":{
                   "width":113,
                   "height":19}},
@@ -886,7 +884,7 @@
           "style":{
             "location":{
               "x":18,
-              "y":829},
+              "y":822},
             "size":{
               "width":357,
               "height":10},
@@ -914,7 +912,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":849},
+              "y":842},
             "size":{
               "width":343,
               "height":32}},
@@ -935,7 +933,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":849},
+                  "y":842},
                 "size":{
                   "width":343,
                   "height":32}},
@@ -953,7 +951,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":6,
-              "y":769},
+              "y":762},
             "size":{
               "width":22,
               "height":22},
@@ -974,7 +972,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":6,
-                  "y":769},
+                  "y":762},
                 "size":{
                   "width":22,
                   "height":22},
@@ -999,7 +997,7 @@
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"a5519a3bce024adaa63b5e1f43050eb9",
           "label":"",
@@ -1014,7 +1012,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":900},
+              "y":893},
             "size":{
               "width":343,
               "height":16}},
@@ -1035,7 +1033,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":900},
+                  "y":893},
                 "size":{
                   "width":343,
                   "height":16}},
@@ -1056,7 +1054,7 @@
               "color":0xFFCCCCCC},
             "location":{
               "x":18,
-              "y":926},
+              "y":919},
             "size":{
               "width":343,
               "height":174},
@@ -1079,7 +1077,7 @@
                   "color":0xFFCCCCCC},
                 "location":{
                   "x":18,
-                  "y":926},
+                  "y":919},
                 "size":{
                   "width":343,
                   "height":174},
@@ -1104,7 +1102,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":1110},
+              "y":1103},
             "size":{
               "width":343,
               "height":16}},
@@ -1125,7 +1123,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":1110},
+                  "y":1103},
                 "size":{
                   "width":343,
                   "height":16}},
@@ -1146,7 +1144,7 @@
               "color":0xFFCCCCCC},
             "location":{
               "x":18,
-              "y":1136},
+              "y":1129},
             "size":{
               "width":343,
               "height":174},
@@ -1169,7 +1167,7 @@
                   "color":0xFFCCCCCC},
                 "location":{
                   "x":18,
-                  "y":1136},
+                  "y":1129},
                 "size":{
                   "width":343,
                   "height":174},
@@ -1193,7 +1191,7 @@
               "color":0xFFCCCCCC},
             "location":{
               "x":18,
-              "y":1320},
+              "y":1313},
             "size":{
               "width":343,
               "height":174},
@@ -1216,7 +1214,7 @@
                   "color":0xFFCCCCCC},
                 "location":{
                   "x":18,
-                  "y":1320},
+                  "y":1313},
                 "size":{
                   "width":343,
                   "height":174},
@@ -1241,7 +1239,7 @@
               "opacity":1},
             "location":{
               "x":18,
-              "y":1504},
+              "y":1497},
             "size":{
               "width":343,
               "height":32}},
@@ -1262,7 +1260,7 @@
                   "opacity":1},
                 "location":{
                   "x":18,
-                  "y":1504},
+                  "y":1497},
                 "size":{
                   "width":343,
                   "height":32}},
@@ -1285,7 +1283,7 @@
               "opacity":1},
             "location":{
               "x":318,
-              "y":807},
+              "y":800},
             "size":{
               "width":32,
               "height":19}},
@@ -1307,7 +1305,7 @@
                   "opacity":1},
                 "location":{
                   "x":318,
-                  "y":807},
+                  "y":800},
                 "size":{
                   "width":32,
                   "height":19}},
@@ -1326,7 +1324,7 @@
             "fontSize":"14px",
             "location":{
               "x":164,
-              "y":769},
+              "y":762},
             "size":{
               "width":29,
               "height":16}},
@@ -1344,7 +1342,7 @@
                 "fontSize":"14px",
                 "location":{
                   "x":164,
-                  "y":769},
+                  "y":762},
                 "size":{
                   "width":29,
                   "height":16}},
@@ -1362,7 +1360,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":174,
-              "y":1208},
+              "y":1201},
             "size":{
               "width":30,
               "height":30},
@@ -1382,7 +1380,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":174,
-                  "y":1208},
+                  "y":1201},
                 "size":{
                   "width":30,
                   "height":30},
@@ -1392,7 +1390,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u146.png"}},
+            "normal~":"images/精选视频详情ok/u166.png"}},
 {
           "id":"a647c19095f0421d951937355f32566e",
           "label":"",
@@ -1403,7 +1401,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":350,
-              "y":916},
+              "y":909},
             "size":{
               "width":20,
               "height":20},
@@ -1424,7 +1422,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":350,
-                  "y":916},
+                  "y":909},
                 "size":{
                   "width":20,
                   "height":20},
@@ -1446,7 +1444,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":350,
-              "y":1126},
+              "y":1119},
             "size":{
               "width":20,
               "height":20},
@@ -1467,7 +1465,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":350,
-                  "y":1126},
+                  "y":1119},
                 "size":{
                   "width":20,
                   "height":20},
@@ -1489,7 +1487,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":350,
-              "y":1310},
+              "y":1303},
             "size":{
               "width":20,
               "height":20},
@@ -1510,7 +1508,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":350,
-                  "y":1310},
+                  "y":1303},
                 "size":{
                   "width":20,
                   "height":20},
@@ -1532,7 +1530,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":500,
-              "y":359},
+              "y":352},
             "size":{
               "width":40,
               "height":40},
@@ -1552,7 +1550,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":500,
-                  "y":359},
+                  "y":352},
                 "size":{
                   "width":40,
                   "height":40},
@@ -1573,7 +1571,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":500,
-              "y":10},
+              "y":3},
             "size":{
               "width":97,
               "height":28},
@@ -1591,7 +1589,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":500,
-                  "y":10},
+                  "y":3},
                 "size":{
                   "width":97,
                   "height":28},
@@ -1610,7 +1608,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":503,
-              "y":157},
+              "y":150},
             "size":{
               "width":40,
               "height":40},
@@ -1630,7 +1628,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":503,
-                  "y":157},
+                  "y":150},
                 "size":{
                   "width":40,
                   "height":40},
@@ -1651,7 +1649,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":512,
-              "y":166},
+              "y":159},
             "size":{
               "width":22,
               "height":22},
@@ -1672,7 +1670,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":512,
-                  "y":166},
+                  "y":159},
                 "size":{
                   "width":22,
                   "height":22},
@@ -1683,7 +1681,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"4c69dead3f0d4ddaa0eb50054b981976",
           "label":"",
@@ -1695,7 +1693,7 @@
             "fontWeight":"700",
             "location":{
               "x":503,
-              "y":54},
+              "y":47},
             "size":{
               "width":53,
               "height":16}},
@@ -1713,7 +1711,7 @@
                 "fontWeight":"700",
                 "location":{
                   "x":503,
-                  "y":54},
+                  "y":47},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -1731,7 +1729,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":503,
-              "y":70},
+              "y":63},
             "size":{
               "width":157,
               "height":16}},
@@ -1748,7 +1746,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":503,
-                  "y":70},
+                  "y":63},
                 "size":{
                   "width":157,
                   "height":16}},
@@ -1766,7 +1764,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":560,
-              "y":172},
+              "y":165},
             "size":{
               "width":261,
               "height":16}},
@@ -1783,7 +1781,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":560,
-                  "y":172},
+                  "y":165},
                 "size":{
                   "width":261,
                   "height":16}},
@@ -1802,7 +1800,7 @@
             "fontWeight":"700",
             "location":{
               "x":503,
-              "y":96},
+              "y":89},
             "size":{
               "width":27,
               "height":16}},
@@ -1820,7 +1818,7 @@
                 "fontWeight":"700",
                 "location":{
                   "x":503,
-                  "y":96},
+                  "y":89},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -1838,7 +1836,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":503,
-              "y":111},
+              "y":104},
             "size":{
               "width":174,
               "height":16}},
@@ -1855,7 +1853,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":503,
-                  "y":111},
+                  "y":104},
                 "size":{
                   "width":174,
                   "height":16}},
@@ -1876,7 +1874,7 @@
               "color":0xFFF2F2F2},
             "location":{
               "x":850,
-              "y":158},
+              "y":151},
             "size":{
               "width":174,
               "height":133},
@@ -1900,7 +1898,7 @@
                   "color":0xFFF2F2F2},
                 "location":{
                   "x":850,
-                  "y":158},
+                  "y":151},
                 "size":{
                   "width":174,
                   "height":133},
@@ -1930,7 +1928,7 @@
               "color":0xFFBCBCBC},
             "location":{
               "x":866,
-              "y":252},
+              "y":245},
             "size":{
               "width":66,
               "height":26},
@@ -1960,7 +1958,7 @@
                   "color":0xFFBCBCBC},
                 "location":{
                   "x":866,
-                  "y":252},
+                  "y":245},
                 "size":{
                   "width":66,
                   "height":26},
@@ -1991,7 +1989,7 @@
               "color":0xFFFFFF},
             "location":{
               "x":943,
-              "y":252},
+              "y":245},
             "size":{
               "width":66,
               "height":26},
@@ -2020,7 +2018,7 @@
                   "color":0xFFFFFF},
                 "location":{
                   "x":943,
-                  "y":252},
+                  "y":245},
                 "size":{
                   "width":66,
                   "height":26},
@@ -2042,7 +2040,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":898,
-              "y":198},
+              "y":191},
             "size":{
               "width":66,
               "height":16}},
@@ -2059,7 +2057,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":898,
-                  "y":198},
+                  "y":191},
                 "size":{
                   "width":66,
                   "height":16}},
@@ -2076,7 +2074,7 @@
           "style":{
             "location":{
               "x":500,
-              "y":137},
+              "y":130},
             "size":{
               "width":540,
               "height":10},
@@ -2100,7 +2098,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":850,
-              "y":301},
+              "y":294},
             "size":{
               "width":118,
               "height":32}},
@@ -2117,7 +2115,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":850,
-                  "y":301},
+                  "y":294},
                 "size":{
                   "width":118,
                   "height":32}},
@@ -2134,7 +2132,7 @@
           "style":{
             "location":{
               "x":500,
-              "y":343},
+              "y":336},
             "size":{
               "width":540,
               "height":10},
@@ -2158,7 +2156,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":507,
-              "y":372},
+              "y":365},
             "size":{
               "width":27,
               "height":16}},
@@ -2175,7 +2173,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":507,
-                  "y":372},
+                  "y":365},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -2193,7 +2191,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":560,
-              "y":372},
+              "y":365},
             "size":{
               "width":165,
               "height":16}},
@@ -2210,7 +2208,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":560,
-                  "y":372},
+                  "y":365},
                 "size":{
                   "width":165,
                   "height":16}},
@@ -2228,7 +2226,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":500,
-              "y":415},
+              "y":408},
             "size":{
               "width":70,
               "height":40},
@@ -2248,7 +2246,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":500,
-                  "y":415},
+                  "y":408},
                 "size":{
                   "width":70,
                   "height":40},
@@ -2269,7 +2267,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":507,
-              "y":428},
+              "y":421},
             "size":{
               "width":53,
               "height":16}},
@@ -2286,7 +2284,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":507,
-                  "y":428},
+                  "y":421},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -2304,9 +2302,9 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":589,
-              "y":428},
+              "y":421},
             "size":{
-              "width":286,
+              "width":385,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -2321,9 +2319,9 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":589,
-                  "y":428},
+                  "y":421},
                 "size":{
-                  "width":286,
+                  "width":385,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -2342,7 +2340,7 @@
               "color":0xFFF2F2F2},
             "location":{
               "x":500,
-              "y":553},
+              "y":546},
             "size":{
               "width":147,
               "height":105},
@@ -2366,7 +2364,7 @@
                   "color":0xFFF2F2F2},
                 "location":{
                   "x":500,
-                  "y":553},
+                  "y":546},
                 "size":{
                   "width":147,
                   "height":105},
@@ -2388,7 +2386,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":547,
-              "y":612},
+              "y":605},
             "size":{
               "width":53,
               "height":16}},
@@ -2405,7 +2403,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":547,
-                  "y":612},
+                  "y":605},
                 "size":{
                   "width":53,
                   "height":16}},
@@ -2423,7 +2421,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":552,
-              "y":576},
+              "y":569},
             "size":{
               "width":34,
               "height":34}},
@@ -2440,7 +2438,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":552,
-                  "y":576},
+                  "y":569},
                 "size":{
                   "width":34,
                   "height":34}},
@@ -2458,7 +2456,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":662,
-              "y":596},
+              "y":589},
             "size":{
               "width":485,
               "height":32}},
@@ -2475,7 +2473,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":662,
-                  "y":596},
+                  "y":589},
                 "size":{
                   "width":485,
                   "height":32}},
@@ -2496,7 +2494,7 @@
               "color":0xFFCCCCCC},
             "location":{
               "x":500,
-              "y":868},
+              "y":861},
             "size":{
               "width":200,
               "height":100},
@@ -2519,7 +2517,7 @@
                   "color":0xFFCCCCCC},
                 "location":{
                   "x":500,
-                  "y":868},
+                  "y":861},
                 "size":{
                   "width":200,
                   "height":100},
@@ -2540,7 +2538,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":585,
-              "y":898},
+              "y":891},
             "size":{
               "width":30,
               "height":30},
@@ -2560,7 +2558,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":585,
-                  "y":898},
+                  "y":891},
                 "size":{
                   "width":30,
                   "height":30},
@@ -2570,7 +2568,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u146.png"}},
+            "normal~":"images/精选视频详情ok/u166.png"}},
 {
           "id":"79f84a6c9ee049c9828925d10bdbc5f7",
           "label":"",
@@ -2581,7 +2579,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":688,
-              "y":860},
+              "y":853},
             "size":{
               "width":20,
               "height":20},
@@ -2602,7 +2600,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":688,
-                  "y":860},
+                  "y":853},
                 "size":{
                   "width":20,
                   "height":20},
@@ -2623,7 +2621,7 @@
           "style":{
             "location":{
               "x":500,
-              "y":668},
+              "y":661},
             "size":{
               "width":540,
               "height":10},
@@ -2647,10 +2645,10 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":500,
-              "y":986},
+              "y":979},
             "size":{
               "width":290,
-              "height":144}},
+              "height":128}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2664,10 +2662,10 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":500,
-                  "y":986},
+                  "y":979},
                 "size":{
                   "width":290,
-                  "height":144}},
+                  "height":128}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -2685,7 +2683,7 @@
               "color":0xFFF2F2F2},
             "location":{
               "x":500,
-              "y":470},
+              "y":463},
             "size":{
               "width":180,
               "height":70},
@@ -2709,7 +2707,7 @@
                   "color":0xFFF2F2F2},
                 "location":{
                   "x":500,
-                  "y":470},
+                  "y":463},
                 "size":{
                   "width":180,
                   "height":70},
@@ -2731,7 +2729,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":525,
-              "y":499},
+              "y":492},
             "size":{
               "width":118,
               "height":16}},
@@ -2748,7 +2746,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":525,
-                  "y":499},
+                  "y":492},
                 "size":{
                   "width":118,
                   "height":16}},
@@ -2769,7 +2767,7 @@
               "color":0xFFF2F2F2},
             "location":{
               "x":710,
-              "y":470},
+              "y":463},
             "size":{
               "width":200,
               "height":70},
@@ -2793,7 +2791,7 @@
                   "color":0xFFF2F2F2},
                 "location":{
                   "x":710,
-                  "y":470},
+                  "y":463},
                 "size":{
                   "width":200,
                   "height":70},
@@ -2815,7 +2813,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":751,
-              "y":499},
+              "y":492},
             "size":{
               "width":118,
               "height":16}},
@@ -2832,7 +2830,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":751,
-                  "y":499},
+                  "y":492},
                 "size":{
                   "width":118,
                   "height":16}},
@@ -2850,7 +2848,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":937,
-              "y":489},
+              "y":482},
             "size":{
               "width":290,
               "height":16}},
@@ -2867,7 +2865,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":937,
-                  "y":489},
+                  "y":482},
                 "size":{
                   "width":290,
                   "height":16}},
@@ -2884,7 +2882,7 @@
           "style":{
             "location":{
               "x":500,
-              "y":1140},
+              "y":1133},
             "size":{
               "width":540,
               "height":10},
@@ -2911,7 +2909,7 @@
               "color":0xFFCCCCCC},
             "location":{
               "x":820,
-              "y":868},
+              "y":861},
             "size":{
               "width":200,
               "height":100},
@@ -2934,7 +2932,7 @@
                   "color":0xFFCCCCCC},
                 "location":{
                   "x":820,
-                  "y":868},
+                  "y":861},
                 "size":{
                   "width":200,
                   "height":100},
@@ -2955,7 +2953,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":1008,
-              "y":860},
+              "y":853},
             "size":{
               "width":20,
               "height":20},
@@ -2976,7 +2974,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":1008,
-                  "y":860},
+                  "y":853},
                 "size":{
                   "width":20,
                   "height":20},
@@ -2998,10 +2996,10 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":820,
-              "y":986},
+              "y":979},
             "size":{
               "width":290,
-              "height":48}},
+              "height":64}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -3015,10 +3013,10 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":820,
-                  "y":986},
+                  "y":979},
                 "size":{
                   "width":290,
-                  "height":48}},
+                  "height":64}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -3038,7 +3036,7 @@
               "opacity":1},
             "location":{
               "x":500,
-              "y":701},
+              "y":694},
             "size":{
               "width":33,
               "height":19}},
@@ -3060,7 +3058,7 @@
                   "opacity":1},
                 "location":{
                   "x":500,
-                  "y":701},
+                  "y":694},
                 "size":{
                   "width":33,
                   "height":19}},
@@ -3077,7 +3075,7 @@
           "style":{
             "location":{
               "x":500,
-              "y":723},
+              "y":716},
             "size":{
               "width":357,
               "height":10},
@@ -3105,7 +3103,7 @@
               "opacity":1},
             "location":{
               "x":501,
-              "y":743},
+              "y":736},
             "size":{
               "width":27,
               "height":16}},
@@ -3126,7 +3124,7 @@
                   "opacity":1},
                 "location":{
                   "x":501,
-                  "y":743},
+                  "y":736},
                 "size":{
                   "width":27,
                   "height":16}},
@@ -3149,7 +3147,7 @@
               "opacity":1},
             "location":{
               "x":810,
-              "y":701},
+              "y":694},
             "size":{
               "width":32,
               "height":19}},
@@ -3171,7 +3169,7 @@
                   "opacity":1},
                 "location":{
                   "x":810,
-                  "y":701},
+                  "y":694},
                 "size":{
                   "width":32,
                   "height":19}},
@@ -3189,7 +3187,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":500,
-              "y":774},
+              "y":767},
             "size":{
               "width":290,
               "height":64}},
@@ -3206,7 +3204,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":500,
-                  "y":774},
+                  "y":767},
                 "size":{
                   "width":290,
                   "height":64}},
@@ -3223,7 +3221,7 @@
           "style":{
             "location":{
               "x":0,
-              "y":1736},
+              "y":1869},
             "size":{
               "width":373,
               "height":10},
@@ -3248,8 +3246,8 @@
               "fillType":"solid",
               "color":0xFFCCCCCC},
             "location":{
-              "x":0,
-              "y":1742},
+              "x":-1,
+              "y":1874},
             "size":{
               "width":375,
               "height":618},
@@ -3271,8 +3269,8 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":0,
-                  "y":1742},
+                  "x":-1,
+                  "y":1874},
                 "size":{
                   "width":375,
                   "height":618},
@@ -3293,7 +3291,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":0,
-              "y":1682},
+              "y":1815},
             "size":{
               "width":374,
               "height":20}},
@@ -3310,7 +3308,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":0,
-                  "y":1682},
+                  "y":1815},
                 "size":{
                   "width":374,
                   "height":20}},
@@ -3331,7 +3329,7 @@
               "color":0xFF000000},
             "location":{
               "x":0,
-              "y":1702},
+              "y":1835},
             "size":{
               "width":374,
               "height":39},
@@ -3354,7 +3352,7 @@
                   "color":0xFF000000},
                 "location":{
                   "x":0,
-                  "y":1702},
+                  "y":1835},
                 "size":{
                   "width":374,
                   "height":39},
@@ -3375,7 +3373,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":4,
-              "y":1712},
+              "y":1845},
             "size":{
               "width":22,
               "height":22},
@@ -3396,7 +3394,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":4,
-                  "y":1712},
+                  "y":1845},
                 "size":{
                   "width":22,
                   "height":22},
@@ -3407,7 +3405,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/发视频/u29.png"}},
+            "normal~":"images/精选视频详情ok/u41.png"}},
 {
           "id":"fd2ed1fa1d36470cb032e21f362e1504",
           "label":"",
@@ -3417,7 +3415,7 @@
           "style":{
             "location":{
               "x":74,
-              "y":2332},
+              "y":2465},
             "size":{
               "width":232,
               "height":10},
@@ -3429,7 +3427,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/精选视频详情ok/u150_line.png"}},
+            "line~":"images/精选视频详情ok/u170_line.png"}},
 {
           "id":"efab3c1da25844718c95cacd79d22407",
           "label":"",
@@ -3440,7 +3438,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":96,
-              "y":2328},
+              "y":2461},
             "size":{
               "width":5,
               "height":20},
@@ -3460,7 +3458,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":96,
-                  "y":2328},
+                  "y":2461},
                 "size":{
                   "width":5,
                   "height":20},
@@ -3470,7 +3468,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u151.png"}},
+            "normal~":"images/精选视频详情ok/u171.png"}},
 {
           "id":"7faba61ee63c44dca174957de0d7322b",
           "label":"",
@@ -3486,7 +3484,7 @@
               "opacity":1},
             "location":{
               "x":314,
-              "y":2330},
+              "y":2463},
             "size":{
               "width":36,
               "height":14},
@@ -3511,7 +3509,7 @@
                   "opacity":1},
                 "location":{
                   "x":314,
-                  "y":2330},
+                  "y":2463},
                 "size":{
                   "width":36,
                   "height":14},
@@ -3537,7 +3535,7 @@
               "opacity":1},
             "location":{
               "x":34,
-              "y":2330},
+              "y":2463},
             "size":{
               "width":36,
               "height":14},
@@ -3562,7 +3560,7 @@
                   "opacity":1},
                 "location":{
                   "x":34,
-                  "y":2330},
+                  "y":2463},
                 "size":{
                   "width":36,
                   "height":14},
@@ -3583,7 +3581,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":4,
-              "y":2318},
+              "y":2451},
             "size":{
               "width":38,
               "height":37},
@@ -3604,7 +3602,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":4,
-                  "y":2318},
+                  "y":2451},
                 "size":{
                   "width":38,
                   "height":37},
@@ -3615,7 +3613,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u157.png"}},
+            "normal~":"images/精选视频详情ok/u113.png"}},
 {
           "id":"1391c8b7be3440b786b5772328c5a325",
           "label":"",
@@ -3626,7 +3624,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":210,
-              "y":1220}},
+              "y":1213}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -3640,7 +3638,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":210,
-                  "y":1220}},
+                  "y":1213}},
               "adaptiveStyles":{
 }}]},
 {
@@ -3653,7 +3651,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":190,
-              "y":680}},
+              "y":673}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -3667,9 +3665,183 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":190,
-                  "y":680}},
+                  "y":673}},
               "adaptiveStyles":{
-}}]}]}},
+}}]},
+{
+          "id":"b7a6911409024e62b007bdd31ea1a50c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "location":{
+              "x":18,
+              "y":1539},
+            "size":{
+              "width":343,
+              "height":174},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"991a1e057b8d4509901eb23ffc50773f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":18,
+                  "y":1539},
+                "size":{
+                  "width":343,
+                  "height":174},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/发视频/u69.png"}},
+{
+          "id":"fcdeebe2cc274a1bb8807071e1b34e35",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":174,
+              "y":1611},
+            "size":{
+              "width":30,
+              "height":30},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"94323a8390f34e89800f0963575a407c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":174,
+                  "y":1611},
+                "size":{
+                  "width":30,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/精选视频详情ok/u166.png"}},
+{
+          "id":"ebc0791e0daa4bb7bf8634eb098dbef4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":350,
+              "y":1529},
+            "size":{
+              "width":20,
+              "height":20},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "cornerRadiusTopLeft":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"69741c6d376140f6a9b83531606b7f0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":350,
+                  "y":1529},
+                "size":{
+                  "width":20,
+                  "height":20},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "cornerRadiusTopLeft":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/发视频/u85.png"}},
+{
+          "id":"f13edcd50d644ad39d11fe82bb6adfbe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":18,
+              "y":1723},
+            "size":{
+              "width":343,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5d953d972825423bb45046616e28eadd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":18,
+                  "y":1723},
+                "size":{
+                  "width":343,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "7eae0193a65e431ca4eb8ac17758a1d2":{
       "packageId":"7eae0193a65e431ca4eb8ac17758a1d2",
@@ -4568,4 +4740,20 @@
     "5fb1989d4ac74263abb73219cd746e5f":{
       "scriptId":"u194"},
     "24ed4f2f098647b0a7184dc2896573dd":{
-      "scriptId":"u195"}}});
+      "scriptId":"u195"},
+    "b7a6911409024e62b007bdd31ea1a50c":{
+      "scriptId":"u196"},
+    "991a1e057b8d4509901eb23ffc50773f":{
+      "scriptId":"u197"},
+    "fcdeebe2cc274a1bb8807071e1b34e35":{
+      "scriptId":"u198"},
+    "94323a8390f34e89800f0963575a407c":{
+      "scriptId":"u199"},
+    "ebc0791e0daa4bb7bf8634eb098dbef4":{
+      "scriptId":"u200"},
+    "69741c6d376140f6a9b83531606b7f0b":{
+      "scriptId":"u201"},
+    "f13edcd50d644ad39d11fe82bb6adfbe":{
+      "scriptId":"u202"},
+    "5d953d972825423bb45046616e28eadd":{
+      "scriptId":"u203"}}});
