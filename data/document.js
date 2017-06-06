@@ -27,83 +27,95 @@
             "children":[{
                 "pageName":"精选视频详情ok",
                 "type":"Wireframe",
-                "url":"精选视频详情ok.html"}]},
+                "url":"精选视频详情ok.html"},
+{
+                "pageName":"“我的”投稿页面同发视频",
+                "type":"Wireframe",
+                "url":"“我的”投稿页面同发视频.html"}]},
 {
             "pageName":"首页社区ok",
             "type":"Wireframe",
             "url":"首页社区ok.html",
             "children":[{
-                "pageName":"发视频",
+                "pageName":"发视频ok",
                 "type":"Wireframe",
-                "url":"发视频.html",
+                "url":"发视频ok.html",
                 "children":[{
-                    "pageName":"选择图片或视频",
+                    "pageName":"选择图片或视频ok",
                     "type":"Wireframe",
-                    "url":"选择图片或视频.html",
+                    "url":"选择图片或视频ok.html",
                     "children":[{
-                        "pageName":"拍摄",
+                        "pageName":"拍摄ok",
                         "type":"Wireframe",
-                        "url":"拍摄.html"}]}]},
+                        "url":"拍摄ok.html"}]}]},
 {
-                "pageName":"社区帖子详情",
+                "pageName":"社区帖子详情ok",
                 "type":"Wireframe",
-                "url":"社区帖子详情.html"}]}]},
+                "url":"社区帖子详情ok.html"}]},
 {
-        "pageName":"关注ok",
-        "type":"Wireframe",
-        "url":"关注ok.html"},
+            "pageName":"关注ok",
+            "type":"Wireframe",
+            "url":"关注ok.html"}]},
 {
         "pageName":"后台",
         "type":"Folder",
         "url":"",
         "children":[{
-            "pageName":"精选列表ok",
-            "type":"Wireframe",
-            "url":"精选列表ok.html",
+            "pageName":"精选",
+            "type":"Folder",
+            "url":"",
             "children":[{
-                "pageName":"新增视频ok",
+                "pageName":"精选列表ok",
                 "type":"Wireframe",
-                "url":"新增视频ok.html"},
+                "url":"精选列表ok.html",
+                "children":[{
+                    "pageName":"新增视频ok",
+                    "type":"Wireframe",
+                    "url":"新增视频ok.html"},
 {
-                "pageName":"编辑视频ok",
+                    "pageName":"编辑视频ok",
+                    "type":"Wireframe",
+                    "url":"编辑视频ok.html"},
+{
+                    "pageName":"标题文章预览ok",
+                    "type":"Wireframe",
+                    "url":"标题文章预览ok.html"}]},
+{
+                "pageName":"定时任务ok",
                 "type":"Wireframe",
-                "url":"编辑视频ok.html"},
+                "url":"定时任务ok.html"},
 {
-                "pageName":"标题文章预览ok",
+                "pageName":"素材列表ok",
                 "type":"Wireframe",
-                "url":"标题文章预览ok.html"}]},
+                "url":"素材列表ok.html"}]},
 {
-            "pageName":"定时任务ok",
-            "type":"Wireframe",
-            "url":"定时任务ok.html"},
-{
-            "pageName":"素材列表ok",
-            "type":"Wireframe",
-            "url":"素材列表ok.html"}]},
-{
-        "pageName":"不通过",
-        "type":"Folder",
-        "url":"",
-        "children":[{
-            "pageName":"社区视频详情ok",
-            "type":"Wireframe",
-            "url":"社区视频详情ok.html"},
-{
-            "pageName":"拍摄视频ok",
-            "type":"Wireframe",
-            "url":"拍摄视频ok.html",
+            "pageName":"社区",
+            "type":"Folder",
+            "url":"",
             "children":[{
-                "pageName":"选择本地视频ok",
+                "pageName":"社区列表ok",
                 "type":"Wireframe",
-                "url":"选择本地视频ok.html"}]},
+                "url":"社区列表ok.html",
+                "children":[{
+                    "pageName":"新增视频ok",
+                    "type":"Wireframe",
+                    "url":"新增视频ok_1.html"},
 {
-            "pageName":"编辑视频ok",
-            "type":"Wireframe",
-            "url":"编辑视频ok_1.html",
-            "children":[{
-                "pageName":"编辑封面ok",
+                    "pageName":"编辑视频ok",
+                    "type":"Wireframe",
+                    "url":"编辑视频ok_1.html"},
+{
+                    "pageName":"标题文章预览ok",
+                    "type":"Wireframe",
+                    "url":"标题文章预览ok_1.html"}]},
+{
+                "pageName":"定时任务ok",
                 "type":"Wireframe",
-                "url":"编辑封面ok.html"}]}]}]},
+                "url":"定时任务ok_1.html"},
+{
+                "pageName":"素材列表ok",
+                "type":"Wireframe",
+                "url":"素材列表ok_1.html"}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

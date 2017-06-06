@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"精选列表ok.html",
-  "generationDate":new Date(1496651956840.53),
+  "generationDate":new Date(1496731372692.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -7037,7 +7037,7 @@
                                       "showType":"none"}}}]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/发视频/u85.png"}}]}]},
+                    "normal~":"images/发视频ok/u85.png"}}]}]},
 {
           "id":"818be4caa8ca4a29879ff999e983062b",
           "label":"",
@@ -7327,7 +7327,54 @@
           "images":{
             "normal~":"images/精选视频详情ok/u248.png"}},
 {
-          "id":"0e81bf17a60e4d998242d6257cc412e1",
+          "id":"81ccad088f4747e9893036ff619972a3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF0099FF},
+            "location":{
+              "x":1078,
+              "y":287},
+            "size":{
+              "width":10,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0099FF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a48b35743f3f41409c4810a795658dce",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF},
+                "location":{
+                  "x":1078,
+                  "y":287},
+                "size":{
+                  "width":10,
+                  "height":10},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0099FF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/精选视频详情ok/u248.png"}},
+{
+          "id":"ae7f1a0c98574035b0e340b3c756c9f6",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
@@ -7336,14 +7383,14 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":1381,
-              "y":267},
+              "y":270},
             "size":{
-              "width":170,
-              "height":64}},
+              "width":125,
+              "height":80}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"7bd15e2241d1465496c93e2800246ec0",
+              "id":"58dadcecb7c2425ab2bf013646c6f176",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -7353,10 +7400,10 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":1381,
-                  "y":267},
+                  "y":270},
                 "size":{
-                  "width":170,
-                  "height":64}},
+                  "width":125,
+                  "height":80}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -9038,7 +9085,11 @@
       "scriptId":"u356"},
     "7c9981e22100425aae8cb216fcbc975c":{
       "scriptId":"u357"},
-    "0e81bf17a60e4d998242d6257cc412e1":{
+    "81ccad088f4747e9893036ff619972a3":{
       "scriptId":"u358"},
-    "7bd15e2241d1465496c93e2800246ec0":{
-      "scriptId":"u359"}}});
+    "a48b35743f3f41409c4810a795658dce":{
+      "scriptId":"u359"},
+    "ae7f1a0c98574035b0e340b3c756c9f6":{
+      "scriptId":"u360"},
+    "58dadcecb7c2425ab2bf013646c6f176":{
+      "scriptId":"u361"}}});
