@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择图片或视频ok.html",
-  "generationDate":new Date(1496731369954.04),
+  "generationDate":new Date(1496917081992.08),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -945,7 +945,7 @@
               "color":0xFFF2F2F2},
             "location":{
               "x":910,
-              "y":440},
+              "y":504},
             "size":{
               "width":190,
               "height":70},
@@ -969,7 +969,7 @@
                   "color":0xFFF2F2F2},
                 "location":{
                   "x":910,
-                  "y":440},
+                  "y":504},
                 "size":{
                   "width":190,
                   "height":70},
@@ -991,7 +991,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "location":{
               "x":935,
-              "y":464},
+              "y":524},
             "size":{
               "width":148,
               "height":30}},
@@ -1008,7 +1008,7 @@
                 "fontName":"'Applied Font Regular', 'Applied Font'",
                 "location":{
                   "x":935,
-                  "y":464},
+                  "y":524},
                 "size":{
                   "width":148,
                   "height":30}},
@@ -1505,7 +1505,7 @@
               "y":364},
             "size":{
               "width":341,
-              "height":96}},
+              "height":128}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1522,7 +1522,7 @@
                   "y":364},
                 "size":{
                   "width":341,
-                  "height":96}},
+                  "height":128}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -2111,7 +2111,7 @@
               "y":364},
             "size":{
               "width":340,
-              "height":80}},
+              "height":112}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2128,7 +2128,7 @@
                   "y":364},
                 "size":{
                   "width":340,
-                  "height":80}},
+                  "height":112}},
               "adaptiveStyles":{
 }}],
           "images":{

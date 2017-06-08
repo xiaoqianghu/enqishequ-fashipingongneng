@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"标题文章预览ok.html",
-  "generationDate":new Date(1496731374784.13),
+  "generationDate":new Date(1496917086496.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2465,7 +2465,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u171.png"}},
+            "normal~":"images/精选视频详情ok/u138.png"}},
 {
           "id":"d1357412b71842f69c2993f0474b0184",
           "label":"",
@@ -2608,7 +2608,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u203.png"}},
+            "normal~":"images/精选视频详情ok/u170.png"}},
 {
           "id":"32b82883bfb74eeda71716562abd0136",
           "label":"",
@@ -2651,7 +2651,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u205.png"}},
+            "normal~":"images/精选视频详情ok/u172.png"}},
 {
           "id":"d71a3209e98843278eed27dc9c94bc5e",
           "label":"",
@@ -2754,7 +2754,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u247_start.png",
+            "start~":"images/精选视频详情ok/u214_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/标题文章预览ok/u161_line.png"}},
 {
@@ -2803,7 +2803,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u248.png"}},
+            "normal~":"images/精选视频详情ok/u215.png"}},
 {
           "id":"c47ff8cc9ef74af5bdca9923b93197c6",
           "label":"",
@@ -3102,7 +3102,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u247_start.png",
+            "start~":"images/精选视频详情ok/u214_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/标题文章预览ok/u161_line.png"}},
 {
@@ -3151,7 +3151,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u248.png"}},
+            "normal~":"images/精选视频详情ok/u215.png"}},
 {
           "id":"b110a8ede6464a0ba0e95521fb1db61d",
           "label":"",
@@ -3514,7 +3514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u171.png"}},
+            "normal~":"images/精选视频详情ok/u138.png"}},
 {
           "id":"d947a0bb31414234be5e87224e0271c1",
           "label":"",
@@ -3657,7 +3657,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u203.png"}},
+            "normal~":"images/精选视频详情ok/u170.png"}},
 {
           "id":"87a6c28eee9e44e4bb8d372ad841d2f4",
           "label":"",
@@ -3700,7 +3700,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u205.png"}},
+            "normal~":"images/精选视频详情ok/u172.png"}},
 {
           "id":"eed07ce499c04771b5ccbea589001449",
           "label":"",
@@ -3873,7 +3873,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u316.png"}},
+              "normal~":"images/精选列表ok/u294.png"}},
 {
             "id":"3c6a24f1465e454c90b51d8b9cca8fc3",
             "label":"",
@@ -3957,7 +3957,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u320.png"}},
+              "normal~":"images/精选列表ok/u298.png"}},
 {
             "id":"c522b27a68d649d8ab52519cde771cb3",
             "label":"",
@@ -4035,7 +4035,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u324.png"}},
+              "normal~":"images/精选列表ok/u302.png"}},
 {
             "id":"0213fdccaf6b41139f8862d8aee33d2d",
             "label":"",
@@ -4414,7 +4414,7 @@
                                     "linkType":"current"}]}]}},
                         "tabbable":true,
                         "images":{
-                          "normal~":"images/精选列表ok/u338.png"}},
+                          "normal~":"images/精选列表ok/u316.png"}},
 {
                         "id":"d2d68873a3c24baba40bf036a5c1b5a4",
                         "label":"",
@@ -4469,7 +4469,7 @@
                                     "linkType":"current"}]}]}},
                         "tabbable":true,
                         "images":{
-                          "normal~":"images/精选列表ok/u340.png"}}]}]}]},
+                          "normal~":"images/精选列表ok/u318.png"}}]}]}]},
 {
             "id":"be1382d1788e4e5fb544cff1696e626e",
             "label":"",

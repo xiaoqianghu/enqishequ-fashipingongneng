@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"变更记录.html",
-  "generationDate":new Date(1496731367031.51),
+  "generationDate":new Date(1496917079364.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -38,7 +38,7 @@
           "style":{
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "size":{
-              "width":1010,
+              "width":1000,
               "height":94}},
           "adaptiveStyles":{
 },
@@ -56,7 +56,7 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "size":{
-                  "width":58,
+                  "width":46,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -75,7 +75,7 @@
                       "fillType":"solid",
                       "color":0xFFCCCCCC},
                     "size":{
-                      "width":58,
+                      "width":46,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
@@ -95,7 +95,7 @@
                   "x":0,
                   "y":30},
                 "size":{
-                  "width":58,
+                  "width":46,
                   "height":34}},
               "adaptiveStyles":{
 },
@@ -114,12 +114,12 @@
                       "x":0,
                       "y":30},
                     "size":{
-                      "width":58,
+                      "width":46,
                       "height":34}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u9.png"}},
+                "normal~":"images/变更记录/u11.png"}},
 {
               "id":"dbb767a9756a49c8ab08cff776a930fc",
               "label":"",
@@ -134,7 +134,7 @@
                   "x":0,
                   "y":64},
                 "size":{
-                  "width":58,
+                  "width":46,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -153,12 +153,12 @@
                       "x":0,
                       "y":64},
                     "size":{
-                      "width":58,
+                      "width":46,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u17.png"}},
+                "normal~":"images/变更记录/u21.png"}},
 {
               "id":"58cacb0592804128aab0a0752633bdfd",
               "label":"",
@@ -173,10 +173,10 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":58,
+                  "x":137,
                   "y":0},
                 "size":{
-                  "width":116,
+                  "width":201,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -195,15 +195,15 @@
                       "fillType":"solid",
                       "color":0xFFCCCCCC},
                     "location":{
-                      "x":58,
+                      "x":137,
                       "y":0},
                     "size":{
-                      "width":116,
+                      "width":201,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u3.png"}},
+                "normal~":"images/变更记录/u5.png"}},
 {
               "id":"fe2e735255db4ea4af564a827af78ce8",
               "label":"",
@@ -215,10 +215,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":58,
+                  "x":137,
                   "y":30},
                 "size":{
-                  "width":116,
+                  "width":201,
                   "height":34}},
               "adaptiveStyles":{
 },
@@ -234,15 +234,15 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":58,
+                      "x":137,
                       "y":30},
                     "size":{
-                      "width":116,
+                      "width":201,
                       "height":34}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u11.png"}},
+                "normal~":"images/变更记录/u15.png"}},
 {
               "id":"afb0ded7a620469d88effc8577b58522",
               "label":"",
@@ -254,10 +254,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":58,
+                  "x":137,
                   "y":64},
                 "size":{
-                  "width":116,
+                  "width":201,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -273,15 +273,15 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":58,
+                      "x":137,
                       "y":64},
                     "size":{
-                      "width":116,
+                      "width":201,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u19.png"}},
+                "normal~":"images/变更记录/u25.png"}},
 {
               "id":"f8ae064254d64555adabdc8b09de6592",
               "label":"",
@@ -296,10 +296,10 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":174,
+                  "x":338,
                   "y":0},
                 "size":{
-                  "width":730,
+                  "width":578,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -318,15 +318,15 @@
                       "fillType":"solid",
                       "color":0xFFCCCCCC},
                     "location":{
-                      "x":174,
+                      "x":338,
                       "y":0},
                     "size":{
-                      "width":730,
+                      "width":578,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u5.png"}},
+                "normal~":"images/变更记录/u7.png"}},
 {
               "id":"d0a5ac04779c43c2b6261ddb33807c4d",
               "label":"",
@@ -338,10 +338,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":174,
+                  "x":338,
                   "y":30},
                 "size":{
-                  "width":730,
+                  "width":578,
                   "height":34}},
               "adaptiveStyles":{
 },
@@ -357,15 +357,15 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":174,
+                      "x":338,
                       "y":30},
                     "size":{
-                      "width":730,
+                      "width":578,
                       "height":34}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u13.png"}},
+                "normal~":"images/变更记录/u17.png"}},
 {
               "id":"7f6374c1647540ab8a56ec07aec11746",
               "label":"",
@@ -377,10 +377,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":174,
+                  "x":338,
                   "y":64},
                 "size":{
-                  "width":730,
+                  "width":578,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -396,15 +396,15 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":174,
+                      "x":338,
                       "y":64},
                     "size":{
-                      "width":730,
+                      "width":578,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u21.png"}},
+                "normal~":"images/变更记录/u27.png"}},
 {
               "id":"58834c22f1f444808dc468a25a378291",
               "label":"",
@@ -419,10 +419,10 @@
                   "fillType":"solid",
                   "color":0xFFCCCCCC},
                 "location":{
-                  "x":904,
+                  "x":916,
                   "y":0},
                 "size":{
-                  "width":106,
+                  "width":84,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -441,15 +441,15 @@
                       "fillType":"solid",
                       "color":0xFFCCCCCC},
                     "location":{
-                      "x":904,
+                      "x":916,
                       "y":0},
                     "size":{
-                      "width":106,
+                      "width":84,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u7.png"}},
+                "normal~":"images/变更记录/u9.png"}},
 {
               "id":"65652d08eb0b4288a36ec2812960636b",
               "label":"",
@@ -461,10 +461,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":904,
+                  "x":916,
                   "y":30},
                 "size":{
-                  "width":106,
+                  "width":84,
                   "height":34}},
               "adaptiveStyles":{
 },
@@ -480,15 +480,15 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":904,
+                      "x":916,
                       "y":30},
                     "size":{
-                      "width":106,
+                      "width":84,
                       "height":34}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/变更记录/u15.png"}},
+                "normal~":"images/变更记录/u19.png"}},
 {
               "id":"6a55549a8fe945ad93d39784ae7cfdcd",
               "label":"",
@@ -500,10 +500,10 @@
                 "horizontalAlignment":"center",
                 "verticalAlignment":"middle",
                 "location":{
-                  "x":904,
+                  "x":916,
                   "y":64},
                 "size":{
-                  "width":106,
+                  "width":84,
                   "height":30}},
               "adaptiveStyles":{
 },
@@ -519,10 +519,133 @@
                     "horizontalAlignment":"center",
                     "verticalAlignment":"middle",
                     "location":{
-                      "x":904,
+                      "x":916,
                       "y":64},
                     "size":{
-                      "width":106,
+                      "width":84,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u29.png"}},
+{
+              "id":"fdfb96eedad54ed9b4d38793096bf7c5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC},
+                "location":{
+                  "x":46,
+                  "y":0},
+                "size":{
+                  "width":91,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2b2847e4f0be4d5e9e7c144a78089204",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFCCCCCC},
+                    "location":{
+                      "x":46,
+                      "y":0},
+                    "size":{
+                      "width":91,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u3.png"}},
+{
+              "id":"1df2b0f4e7f8467cb0eec13648d6479b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":46,
+                  "y":30},
+                "size":{
+                  "width":91,
+                  "height":34}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"db49c2cee0af4393b212e592d55dce71",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":46,
+                      "y":30},
+                    "size":{
+                      "width":91,
+                      "height":34}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/变更记录/u13.png"}},
+{
+              "id":"97c875b1245f40e1bc416572a9d64faf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":46,
+                  "y":64},
+                "size":{
+                  "width":91,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ae496fa35f614c08b1d32e9a8ae4d491",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":46,
+                      "y":64},
+                    "size":{
+                      "width":91,
                       "height":30}},
                   "adaptiveStyles":{
 }}],
@@ -537,47 +660,59 @@
       "scriptId":"u1"},
     "9ea07e49b9224f4389cc4fe6b5eeb497":{
       "scriptId":"u2"},
-    "58cacb0592804128aab0a0752633bdfd":{
+    "fdfb96eedad54ed9b4d38793096bf7c5":{
       "scriptId":"u3"},
-    "ca22bd1bffb74ba88608e8669347de4c":{
+    "2b2847e4f0be4d5e9e7c144a78089204":{
       "scriptId":"u4"},
-    "f8ae064254d64555adabdc8b09de6592":{
+    "58cacb0592804128aab0a0752633bdfd":{
       "scriptId":"u5"},
-    "f0b22fca0bb44fcfa87feff3900fa4c9":{
+    "ca22bd1bffb74ba88608e8669347de4c":{
       "scriptId":"u6"},
-    "58834c22f1f444808dc468a25a378291":{
+    "f8ae064254d64555adabdc8b09de6592":{
       "scriptId":"u7"},
-    "e3e125d6226c4bb4ab9d90a526607bdd":{
+    "f0b22fca0bb44fcfa87feff3900fa4c9":{
       "scriptId":"u8"},
-    "bfa52744e6534bdc83a1976a0fae1ac7":{
+    "58834c22f1f444808dc468a25a378291":{
       "scriptId":"u9"},
-    "9b2d1c183e4846498eeac13b6d7c6c53":{
+    "e3e125d6226c4bb4ab9d90a526607bdd":{
       "scriptId":"u10"},
-    "fe2e735255db4ea4af564a827af78ce8":{
+    "bfa52744e6534bdc83a1976a0fae1ac7":{
       "scriptId":"u11"},
-    "a086a6b6b1174c9c8ae439ecb8448f1c":{
+    "9b2d1c183e4846498eeac13b6d7c6c53":{
       "scriptId":"u12"},
-    "d0a5ac04779c43c2b6261ddb33807c4d":{
+    "1df2b0f4e7f8467cb0eec13648d6479b":{
       "scriptId":"u13"},
-    "8884159a476846ecb6b5faffeb59d3fd":{
+    "db49c2cee0af4393b212e592d55dce71":{
       "scriptId":"u14"},
-    "65652d08eb0b4288a36ec2812960636b":{
+    "fe2e735255db4ea4af564a827af78ce8":{
       "scriptId":"u15"},
-    "367cb644aa3c4fb29e9f3874a6d8c7b5":{
+    "a086a6b6b1174c9c8ae439ecb8448f1c":{
       "scriptId":"u16"},
-    "dbb767a9756a49c8ab08cff776a930fc":{
+    "d0a5ac04779c43c2b6261ddb33807c4d":{
       "scriptId":"u17"},
-    "1d2cabcddf434307a638a3b6b2d86269":{
+    "8884159a476846ecb6b5faffeb59d3fd":{
       "scriptId":"u18"},
-    "afb0ded7a620469d88effc8577b58522":{
+    "65652d08eb0b4288a36ec2812960636b":{
       "scriptId":"u19"},
-    "b39b736909784ee0b93856f1bbf13bf4":{
+    "367cb644aa3c4fb29e9f3874a6d8c7b5":{
       "scriptId":"u20"},
-    "7f6374c1647540ab8a56ec07aec11746":{
+    "dbb767a9756a49c8ab08cff776a930fc":{
       "scriptId":"u21"},
-    "41db9c2b23e0435ea4dad91e17b8e373":{
+    "1d2cabcddf434307a638a3b6b2d86269":{
       "scriptId":"u22"},
-    "6a55549a8fe945ad93d39784ae7cfdcd":{
+    "97c875b1245f40e1bc416572a9d64faf":{
       "scriptId":"u23"},
+    "ae496fa35f614c08b1d32e9a8ae4d491":{
+      "scriptId":"u24"},
+    "afb0ded7a620469d88effc8577b58522":{
+      "scriptId":"u25"},
+    "b39b736909784ee0b93856f1bbf13bf4":{
+      "scriptId":"u26"},
+    "7f6374c1647540ab8a56ec07aec11746":{
+      "scriptId":"u27"},
+    "41db9c2b23e0435ea4dad91e17b8e373":{
+      "scriptId":"u28"},
+    "6a55549a8fe945ad93d39784ae7cfdcd":{
+      "scriptId":"u29"},
     "aa034bb51e8f4c638708bf26de6dba9b":{
-      "scriptId":"u24"}}});
+      "scriptId":"u30"}}});

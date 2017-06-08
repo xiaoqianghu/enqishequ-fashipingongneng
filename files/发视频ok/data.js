@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"发视频ok.html",
-  "generationDate":new Date(1496731369586.79),
+  "generationDate":new Date(1496917081714.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1390,7 +1390,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u166.png"}},
+            "normal~":"images/精选视频详情ok/u133.png"}},
 {
           "id":"a647c19095f0421d951937355f32566e",
           "label":"",
@@ -2390,7 +2390,7 @@
               "x":572,
               "y":605},
             "size":{
-              "width":53,
+              "width":59,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -2407,7 +2407,7 @@
                   "x":572,
                   "y":605},
                 "size":{
-                  "width":53,
+                  "width":59,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -2461,7 +2461,7 @@
               "y":589},
             "size":{
               "width":485,
-              "height":32}},
+              "height":48}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2478,7 +2478,7 @@
                   "y":589},
                 "size":{
                   "width":485,
-                  "height":32}},
+                  "height":48}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -2570,7 +2570,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u166.png"}},
+            "normal~":"images/精选视频详情ok/u133.png"}},
 {
           "id":"79f84a6c9ee049c9828925d10bdbc5f7",
           "label":"",
@@ -3431,7 +3431,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/精选视频详情ok/u170_line.png"}},
+            "line~":"images/精选视频详情ok/u137_line.png"}},
 {
           "id":"efab3c1da25844718c95cacd79d22407",
           "label":"",
@@ -3472,7 +3472,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u171.png"}},
+            "normal~":"images/精选视频详情ok/u138.png"}},
 {
           "id":"7faba61ee63c44dca174957de0d7322b",
           "label":"",
@@ -3759,7 +3759,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u166.png"}},
+            "normal~":"images/精选视频详情ok/u133.png"}},
 {
           "id":"ebc0791e0daa4bb7bf8634eb098dbef4",
           "label":"",

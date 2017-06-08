@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新增视频ok.html",
-  "generationDate":new Date(1496731373470.17),
+  "generationDate":new Date(1496917085199.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -526,7 +526,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/精选列表ok/u314_line.png"}},
+                    "line~":"images/精选列表ok/u292_line.png"}},
 {
                   "id":"01d1c48b78714c86879dab4408773140",
                   "label":"",
@@ -546,7 +546,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/精选列表ok/u314_line.png"}},
+                    "line~":"images/精选列表ok/u292_line.png"}},
 {
                   "id":"a71d3fa63ae64225b80b309625837f58",
                   "label":"",
@@ -566,7 +566,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/精选列表ok/u314_line.png"}}]}]},
+                    "line~":"images/精选列表ok/u292_line.png"}}]}]},
 {
           "id":"a4f13fc93c484040b8b213477c0e2f01",
           "label":"",
@@ -1298,7 +1298,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u171.png"}},
+                    "normal~":"images/精选视频详情ok/u138.png"}},
 {
                   "id":"aaffa9a1924c46bc89a405583a1873f3",
                   "label":"",
@@ -1447,7 +1447,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u203.png"}},
+                    "normal~":"images/精选视频详情ok/u170.png"}},
 {
                   "id":"e76ba9d75717401aa7286bae6c90930f",
                   "label":"",
@@ -1492,7 +1492,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/精选视频详情ok/u205.png"}},
+                    "normal~":"images/精选视频详情ok/u172.png"}},
 {
                   "id":"55ffffdb21e846b5a7dad52fba0e7427",
                   "label":"",
@@ -3467,7 +3467,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u171.png"}},
+            "normal~":"images/精选视频详情ok/u138.png"}},
 {
           "id":"ec1176ab91454ad795b928da34216b55",
           "label":"",
@@ -3612,7 +3612,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u205.png"}},
+            "normal~":"images/精选视频详情ok/u172.png"}},
 {
           "id":"6be96d6f01f84e52bb9b3958aa3a278c",
           "label":"",
@@ -3655,7 +3655,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u203.png"}},
+            "normal~":"images/精选视频详情ok/u170.png"}},
 {
           "id":"c28ae603c8724f4dbcf3b19a029001af",
           "label":"",
@@ -4027,7 +4027,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u171.png"}},
+            "normal~":"images/精选视频详情ok/u138.png"}},
 {
           "id":"24a1545702b845e38ef194d3f9763bcf",
           "label":"",
@@ -4301,7 +4301,7 @@
           "adaptiveStyles":{
 },
           "images":{
-            "start~":"images/精选视频详情ok/u247_start.png",
+            "start~":"images/精选视频详情ok/u214_start.png",
             "end~":"resources/images/transparent.gif",
             "line~":"images/新增视频ok/u240_line.png"}},
 {
@@ -4350,7 +4350,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/精选视频详情ok/u248.png"}},
+            "normal~":"images/精选视频详情ok/u215.png"}},
 {
           "id":"b5a7e6861c664ce48b78301151e83a1e",
           "label":"",
@@ -4785,7 +4785,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u316.png"}},
+              "normal~":"images/精选列表ok/u294.png"}},
 {
             "id":"3c6a24f1465e454c90b51d8b9cca8fc3",
             "label":"",
@@ -4869,7 +4869,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u320.png"}},
+              "normal~":"images/精选列表ok/u298.png"}},
 {
             "id":"c522b27a68d649d8ab52519cde771cb3",
             "label":"",
@@ -4947,7 +4947,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/精选列表ok/u324.png"}},
+              "normal~":"images/精选列表ok/u302.png"}},
 {
             "id":"0213fdccaf6b41139f8862d8aee33d2d",
             "label":"",
@@ -5326,7 +5326,7 @@
                                     "linkType":"current"}]}]}},
                         "tabbable":true,
                         "images":{
-                          "normal~":"images/精选列表ok/u338.png"}},
+                          "normal~":"images/精选列表ok/u316.png"}},
 {
                         "id":"d2d68873a3c24baba40bf036a5c1b5a4",
                         "label":"",
@@ -5381,7 +5381,7 @@
                                     "linkType":"current"}]}]}},
                         "tabbable":true,
                         "images":{
-                          "normal~":"images/精选列表ok/u340.png"}}]}]}]},
+                          "normal~":"images/精选列表ok/u318.png"}}]}]}]},
 {
             "id":"be1382d1788e4e5fb544cff1696e626e",
             "label":"",
