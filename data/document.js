@@ -115,7 +115,43 @@
 {
                 "pageName":"素材列表ok",
                 "type":"Wireframe",
-                "url":"素材列表ok_1.html"}]}]}]},
+                "url":"素材列表ok_1.html"}]},
+{
+            "pageName":"广告管理",
+            "type":"Folder",
+            "url":"",
+            "children":[{
+                "pageName":"banner管理-已发布ok",
+                "type":"Wireframe",
+                "url":"banner__-___ok.html",
+                "children":[{
+                    "pageName":"新增轮播图ok",
+                    "type":"Wireframe",
+                    "url":"新增轮播图ok.html"},
+{
+                    "pageName":"待展示ok",
+                    "type":"Wireframe",
+                    "url":"待展示ok.html"},
+{
+                    "pageName":"历史发布",
+                    "type":"Wireframe",
+                    "url":"历史发布.html"}]},
+{
+                "pageName":"广告ok",
+                "type":"Wireframe",
+                "url":"广告ok.html",
+                "children":[{
+                    "pageName":"新增广告ok",
+                    "type":"Wireframe",
+                    "url":"新增广告ok.html"},
+{
+                    "pageName":"待展示ok",
+                    "type":"Wireframe",
+                    "url":"待展示ok_1.html"},
+{
+                    "pageName":"历史发布ok",
+                    "type":"Wireframe",
+                    "url":"历史发布ok.html"}]}]}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

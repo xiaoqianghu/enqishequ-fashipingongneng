@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新增视频ok.html",
-  "generationDate":new Date(1496917085199.86),
+  "generationDate":new Date(1497838838066.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

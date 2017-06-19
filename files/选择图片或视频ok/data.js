@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"选择图片或视频ok.html",
-  "generationDate":new Date(1496917081992.08),
+  "generationDate":new Date(1497838836301.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

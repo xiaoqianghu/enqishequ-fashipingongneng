@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"关注ok.html",
-  "generationDate":new Date(1496917083638.75),
+  "generationDate":new Date(1497838837213.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

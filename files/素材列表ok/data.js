@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"素材列表ok.html",
-  "generationDate":new Date(1496917087692.64),
+  "generationDate":new Date(1497838839371.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

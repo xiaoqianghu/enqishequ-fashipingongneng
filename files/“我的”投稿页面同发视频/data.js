@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"“我的”投稿页面同发视频.html",
-  "generationDate":new Date(1496917080951.85),
+  "generationDate":new Date(1497838835783.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"首页社区ok.html",
-  "generationDate":new Date(1496917081164.29),
+  "generationDate":new Date(1497838835893.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2357,6 +2357,41 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"84829778e02a4f09a80c313018c6afb7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":413,
+              "y":598},
+            "size":{
+              "width":131,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbc45205670144c9b573de72c832ff08",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":413,
+                  "y":598},
+                "size":{
+                  "width":131,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "7eae0193a65e431ca4eb8ac17758a1d2":{
@@ -3114,4 +3149,8 @@
     "5cefe3e7182c46a7bc00230efc5e840e":{
       "scriptId":"u123"},
     "cd7f8b161d2c49848b3cd4ac7b9f9f42":{
-      "scriptId":"u124"}}});
+      "scriptId":"u124"},
+    "84829778e02a4f09a80c313018c6afb7":{
+      "scriptId":"u125"},
+    "fbc45205670144c9b573de72c832ff08":{
+      "scriptId":"u126"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"变更记录.html",
-  "generationDate":new Date(1496917079364.09),
+  "generationDate":new Date(1497838834987.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -39,7 +39,7 @@
             "fontName":"'Applied Font Regular', 'Applied Font'",
             "size":{
               "width":1000,
-              "height":94}},
+              "height":134}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -96,7 +96,7 @@
                   "y":30},
                 "size":{
                   "width":46,
-                  "height":34}},
+                  "height":20}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -115,7 +115,7 @@
                       "y":30},
                     "size":{
                       "width":46,
-                      "height":34}},
+                      "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -132,10 +132,10 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":0,
-                  "y":64},
+                  "y":50},
                 "size":{
                   "width":46,
-                  "height":30}},
+                  "height":84}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -151,10 +151,10 @@
                     "verticalAlignment":"middle",
                     "location":{
                       "x":0,
-                      "y":64},
+                      "y":50},
                     "size":{
                       "width":46,
-                      "height":30}},
+                      "height":84}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -219,7 +219,7 @@
                   "y":30},
                 "size":{
                   "width":201,
-                  "height":34}},
+                  "height":20}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -238,7 +238,7 @@
                       "y":30},
                     "size":{
                       "width":201,
-                      "height":34}},
+                      "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -255,10 +255,10 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":137,
-                  "y":64},
+                  "y":50},
                 "size":{
                   "width":201,
-                  "height":30}},
+                  "height":84}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -274,10 +274,10 @@
                     "verticalAlignment":"middle",
                     "location":{
                       "x":137,
-                      "y":64},
+                      "y":50},
                     "size":{
                       "width":201,
-                      "height":30}},
+                      "height":84}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -342,7 +342,7 @@
                   "y":30},
                 "size":{
                   "width":578,
-                  "height":34}},
+                  "height":20}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -361,7 +361,7 @@
                       "y":30},
                     "size":{
                       "width":578,
-                      "height":34}},
+                      "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -378,10 +378,10 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":338,
-                  "y":64},
+                  "y":50},
                 "size":{
                   "width":578,
-                  "height":30}},
+                  "height":84}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -397,10 +397,10 @@
                     "verticalAlignment":"middle",
                     "location":{
                       "x":338,
-                      "y":64},
+                      "y":50},
                     "size":{
                       "width":578,
-                      "height":30}},
+                      "height":84}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -465,7 +465,7 @@
                   "y":30},
                 "size":{
                   "width":84,
-                  "height":34}},
+                  "height":20}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -484,7 +484,7 @@
                       "y":30},
                     "size":{
                       "width":84,
-                      "height":34}},
+                      "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -501,10 +501,10 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":916,
-                  "y":64},
+                  "y":50},
                 "size":{
                   "width":84,
-                  "height":30}},
+                  "height":84}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -520,10 +520,10 @@
                     "verticalAlignment":"middle",
                     "location":{
                       "x":916,
-                      "y":64},
+                      "y":50},
                     "size":{
                       "width":84,
-                      "height":30}},
+                      "height":84}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -588,7 +588,7 @@
                   "y":30},
                 "size":{
                   "width":91,
-                  "height":34}},
+                  "height":20}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -607,7 +607,7 @@
                       "y":30},
                     "size":{
                       "width":91,
-                      "height":34}},
+                      "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -624,10 +624,10 @@
                 "verticalAlignment":"middle",
                 "location":{
                   "x":46,
-                  "y":64},
+                  "y":50},
                 "size":{
                   "width":91,
-                  "height":30}},
+                  "height":84}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -643,10 +643,10 @@
                     "verticalAlignment":"middle",
                     "location":{
                       "x":46,
-                      "y":64},
+                      "y":50},
                     "size":{
                       "width":91,
-                      "height":30}},
+                      "height":84}},
                   "adaptiveStyles":{
 }}],
               "images":{
